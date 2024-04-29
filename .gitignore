@@ -2,3 +2,4 @@ target/
 .dfx/
 .vessel/
 Cargo.lock
+.DS_Store
