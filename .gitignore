@@ -1,3 +1,4 @@
 target/
 .dfx/
 .vessel/
+Cargo.lock
